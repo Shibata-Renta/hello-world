@@ -1,2 +1,2 @@
 # hello-world
-learning how to create new repository
+learning how to create new notes
